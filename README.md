@@ -12,7 +12,7 @@ exactly what the package does.
 | --- | --- |
 | [settings_ui](https://pub.dev/packages/settings_ui) | [`settings_ui.gif`](tiles/settings_ui.gif) |
 | [badges](https://pub.dev/packages/badges) | [`badges.gif`](tiles/badges.gif) |
-| [yako_celebrations](https://github.com/yako-dev/flutter-yako-celebrations) | [`yako_celebrations.webp`](tiles/yako_celebrations.webp) |
+| [yako_celebrations](https://pub.dev/packages/yako_celebrations) | [`yako_celebrations.webp`](tiles/yako_celebrations.webp) |
 | [status_alert](https://pub.dev/packages/status_alert) | [`status_alert.gif`](tiles/status_alert.gif) |
 | [full_screen_menu](https://pub.dev/packages/full_screen_menu) | [`full_screen_menu.gif`](tiles/full_screen_menu.gif) |
 | [yako_theme_switch](https://pub.dev/packages/yako_theme_switch) | [`yako_theme_switch.gif`](tiles/yako_theme_switch.gif) |

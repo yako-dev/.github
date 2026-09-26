@@ -24,7 +24,7 @@ PACKAGES = [
      "Animated demo of the badges Flutter package: a count badge on a cart "
      "icon goes from 1 to 4, a notification badge pops in, and a Twitter-style "
      "verified badge, a NEW label and an Instagram-shaped badge appear."),
-    ("yako_celebrations", "https://github.com/yako-dev/flutter-yako-celebrations",
+    ("yako_celebrations", "https://pub.dev/packages/yako_celebrations",
      "yako_celebrations.webp",
      "Full-screen celebrations in one line: confetti, coins, fireworks, flames.",
      "Animated demo of the yako_celebrations Flutter package: an epic "
