@@ -1,0 +1,31 @@
+name: tile_studio
+description: Records the "More from Yako" README tiles from the real package widgets.
+publish_to: none
+environment:
+  sdk: ">=3.13.0 <4.0.0"
+dependencies:
+  flutter:
+    sdk: flutter
+  material_ui: ^1.4.0
+  cupertino_ui: ^1.1.1
+  cupertino_icons: ^1.0.9
+  badges:
+    git: https://github.com/yako-dev/flutter_badges.git
+  status_alert:
+    git: https://github.com/yako-dev/flutter-status-alert.git
+  settings_ui:
+    git: https://github.com/yako-dev/flutter-settings-ui.git
+  full_screen_menu:
+    git: https://github.com/yako-dev/flutter-full-screen-menu.git
+  yako_theme_switch:
+    git: https://github.com/yako-dev/flutter-yako-theme-switch.git
+  diagonal_decoration:
+    git: https://github.com/yako-dev/flutter-diagonal-decoration.git
+  yako_celebrations:
+    git: https://github.com/yako-dev/flutter-yako-celebrations.git
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+flutter:
+  assets:
+    - assets/yako_logo.png
